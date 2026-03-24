@@ -1,0 +1,20 @@
+{
+    "name": "Rubixchain",
+    "website": "https://rubix.net/",
+    "description": "Layer-1 Blockchain Protocol based on novel Proof-of-Pledge consensus",
+    "explorer": "https://rubixexplorer.com/",
+    "symbol": "RBT",
+    "type": "coin",
+    "decimals": 6,
+    "status": "active",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/rubixchain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/rubixchain"
+        }
+    ]
+}
